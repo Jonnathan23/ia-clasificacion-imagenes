@@ -1,6 +1,6 @@
 # Ignorar la carpeta train2017
 train2017/
-
+annotations/*
 
 # Ignorar archivos con extensiones .zip y .rar
 *.zip
