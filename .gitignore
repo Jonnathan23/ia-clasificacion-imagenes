@@ -3,5 +3,6 @@ train2017/
 annotations/*
 
 # Ignorar archivos con extensiones .zip y .rar
+*.csv
 *.zip
 *.rar
